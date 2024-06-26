@@ -11,7 +11,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Конфигурация
-TOKEN = '7445099108:AAExNKPxAJ6iRR2N9pJobgrE8MFBKI1ceWY'
+TOKEN = '7280017760:AAEquoXbi7zi3slt88jXstv9-4VRJCtEc8Q'
 AIRTABLE_API_KEY = 'patH7lvSZ5rVA0dgH.4a485411ee16338594ef91d59d4657191f7a2db32f3b7df900334c68c23bf25b'
 AIRTABLE_BASE_ID = 'apppB06vApm5KLOYs'
 AIRTABLE_TABLE_NAME = 'tgToAir'
